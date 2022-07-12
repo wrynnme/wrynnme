@@ -1,11 +1,14 @@
 # Hey there :wave:
-
-<img src="https://github.com/wrynnme/wrynnme/blob/main/banner.png?raw=true" alt="Hello world">
+<center>
+<img src="https://github.com/wrynnme/wrynnme/blob/main/banner.png?raw=true" alt="Hello World">
+<hr>
+<img src="https://github-readme-stats.vercel.app/api?username=wrynnme&show_icons=true&theme=radical" alt"Hello World">
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/wrynnme/count.svg" />
 </p>
+</center>
 <!--
 ## About me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
